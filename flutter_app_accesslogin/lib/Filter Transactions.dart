@@ -142,7 +142,7 @@ class _FilterTransaction extends State<FilterTransaction> {
             ],
           ),
         ),
-        SizedBox(height: 12.0),
+        SizedBox(height: 13.0),
         Row(
           children: <Widget>[
             Text("Plate No",
